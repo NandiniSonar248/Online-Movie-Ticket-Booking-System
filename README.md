@@ -1,49 +1,19 @@
-# 🎬 Promovie - Online Movie Ticket Booking System
+# online-movie-booking
+I doveloped this project using Core PHP,HTML,JavaScript,CSS,Bootstrap.
 
-Promovie is a PHP-based web application for booking movie tickets online. It allows users to browse movies, view details, book seats, and make payments. An admin panel is also provided to manage movies, users, feedback, and showtimes.
+# Note
+1. This project is for college and study only
+2. that is not use for Commercial project
 
-> 🔧 This project was developed using **Core PHP, HTML, CSS, JavaScript, and Bootstrap for academic and learning purposes.
+# Screenshot
 
----
+## 1. Home page ##
+![home1](https://user-images.githubusercontent.com/104883953/167260990-670d3197-5c62-44bc-b821-fcc8d0efd36d.jpg)
+![home2](https://user-images.githubusercontent.com/104883953/167261156-947f1206-6d2f-48c5-b3ba-319ff50b2e95.jpg)
 
-## 📌 Features
+## 2. All Movie ##
+![all movie](https://user-images.githubusercontent.com/104883953/167261026-0c6d020e-7963-4e33-85e9-97b2b118d2e6.jpg)
 
-### 👤 User Side:
-- User Registration & Login
-- Browse all movies
-- View movie details
-- Book movie tickets with seat selection
-- Make online payments
-- View and print booked tickets
-- Submit feedback
-
-### 🛠️ Admin Panel:
-- Admin Login & Dashboard
-- Add, update, and delete movies
-- Manage user registrations
-- View feedback
-- Manage theaters and show timings
-
----
-
-## 🗃️ Technologies Used
-
-- Core PHP (No framework)
-- MySQL (Database)
-- HTML5, CSS3, Bootstrap 4
-- JavaScript & AJAX
-
----
-
-## 🧪 Setup Instructions
-
-1. Clone or download the repository.
-2. Import the `moviebook.sql` file into your MySQL server.
-3. Update `Database.php` or `database_connection.php` with your local DB credentials.
-4. Run the project via `localhost/promovie` using XAMPP or WAMP.
-
-## 🧑‍💻 Author
-
-Developed by Nandini Sonar.  
-
+## 3. Seat Book ##
+![seat book](https://user-images.githubusercontent.com/104883953/167261039-e45bb084-ed5a-4b43-b8d2-132a16100d41.jpg)
 
