@@ -1,6 +1,6 @@
 # 🎬 Promovie - Online Movie Ticket Booking System
 
-Promovie** is a PHP-based web application for booking movie tickets online. It allows users to browse movies, view details, book seats, and make payments. An admin panel is also provided to manage movies, users, feedback, and showtimes.
+Promovie is a PHP-based web application for booking movie tickets online. It allows users to browse movies, view details, book seats, and make payments. An admin panel is also provided to manage movies, users, feedback, and showtimes.
 
 > 🔧 This project was developed using **Core PHP, HTML, CSS, JavaScript, and Bootstrap for academic and learning purposes.
 
